@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
-💬 Ask me about **Node.js, React, Java... or anything [here](https://github.com/jonvicbarcenas/jonvicbaarcenas/issues)**
+💬 Ask me about **Node.js, React, Java... or anything [here](https://github.com/jonvicbarcenas/jonvicbarcenas/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
