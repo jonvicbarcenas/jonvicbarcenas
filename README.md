@@ -12,7 +12,7 @@
 
 🔭 I’m currently working on **a game MYRNHELM**
 
-🌱 I’m currently learning **Kotlin, Libgdx, AWS**
+🌱 I’m currently learning **Django, Spring Boot, React**
 
 💬 Ask me about **Node.js, React, Java... or anything [here](https://github.com/jonvicbarcenas/jonvicbarcenas/issues)**
 
@@ -39,8 +39,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql" />
 </div>
 
 <br/>
