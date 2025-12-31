@@ -47,7 +47,7 @@
 
 <div align="center">
     <h2>📖 Today's Verse </h2>
-    <img src="https://raw.githubusercontent.com/jonvicbarcenas/verse-as-day/main/verse.svg" alt="Daily Verse" />
+    <img src="https://raw.githubusercontent.com/jonvicbarcenas/verse-of-the-day/main/verse.svg" alt="Daily Verse" />
 </div>
 
 <div align="center">
