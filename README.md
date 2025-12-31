@@ -44,6 +44,10 @@
 <br/>
 <hr/>
 
+## 📖 Today's Verse
+
+![Daily Verse](https://raw.githubusercontent.com/jonvicbarcenas/verse-as-day/main/verse.png)
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
