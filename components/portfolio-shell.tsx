@@ -894,9 +894,6 @@ Use 'open contact' to open the contact form window.`;
                 onClick={(e) => {
                   e.stopPropagation();
                   setSelectedFolder(folder.id);
-                }}
-                onDoubleClick={(e) => {
-                  e.stopPropagation();
                   openWindow(folder.id as any);
                 }}
               >
