@@ -54,6 +54,15 @@
 
 <hr/>
 
+<h2 align="center">🎓 Certificates 🎓</h2>
+<br/>
+<div align="center">
+  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-e49cd47b-b94e-4e6f-aea2-d6f417bcdbd4.jpg?v=1771076726000" alt="Udemy Certificate" width="600"/>
+</div>
+
+<br/>
+<hr/>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
