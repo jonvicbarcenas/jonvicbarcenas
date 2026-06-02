@@ -1,0 +1,15 @@
+[
+  {
+    "year": "2023",
+    "title": "Started BSIT",
+    "subtitle": "Cebu Institute of Technology - University",
+    "description": "Began my IT journey, focusing on core programming, object-oriented programming (OOP) principles, databases, and software fundamentals."
+  },
+  {
+    "year": "2026",
+    "title": "Streanime / MyroniX Development",
+    "subtitle": "Anime Streaming & Manga Reading Platform",
+    "description": "Engineered a premium React 19 media portal implementing custom Vidstack episode video streaming, Firebase database watchlist sync, active manga reader interfaces, and secure admin dashboards.",
+    "certificate": "https://udemy-certificate.s3.amazonaws.com/image/UC-e49cd47b-b94e-4e6f-aea2-d6f417bcdbd4.jpg?v=1771076726000"
+  }
+]
