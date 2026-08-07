@@ -13,28 +13,23 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Jon Vic Barcenas | Portfolio.sh",
+  title: "Jon Vic Barcenas | Linux Desktop Portfolio",
   description:
-    "A terminal-inspired portfolio for Jon Vic T. Barcenas, a BSIT student and junior developer focused on React, TypeScript, Java, Kotlin, Python/Django, AI-assisted workflows, and automation.",
+    "An interactive Linux desktop portfolio for Jon Vic T. Barcenas, a BSIT student and junior developer building with React, TypeScript, Java, Kotlin, Python, and AI-assisted workflows.",
   authors: [{ name: "Jon Vic Barcenas" }],
   openGraph: {
-    title: "Jon Vic Barcenas | Portfolio.sh",
-    description:
-      "Projects, stack, and contact details for Jon Vic T. Barcenas.",
+    title: "Jon Vic Barcenas | Linux Desktop Portfolio",
+    description: "Projects, stack, and contact details for Jon Vic T. Barcenas.",
     url: "https://github.com/jonvicbarcenas",
     siteName: "Portfolio.sh",
     type: "website",
   },
 };
 
-export default function RootLayout({
-  children,
-}: Readonly<{
-  children: React.ReactNode;
-}>) {
+export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="en" className={`${geistSans.variable} ${geistMono.variable}`}>
-      <body>{children}</body>
+      <body suppressHydrationWarning>{children}</body>
     </html>
   );
 }
